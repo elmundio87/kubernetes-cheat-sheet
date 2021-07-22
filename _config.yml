@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: Kubernetes Cheat Sheet
+description: Useful snippets to work with kubectl
