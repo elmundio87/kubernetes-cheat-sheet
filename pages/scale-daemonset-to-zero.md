@@ -1,4 +1,4 @@
-[Home](/)
+[Home](../index.md)
 
 # Scale a daemonset up/down
 
